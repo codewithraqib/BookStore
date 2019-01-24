@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">My books</string>
+
+    <string name="title_activity_nav">My books</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">My books</string>
+
+    <string name="llibres_per_titol_help_title">Books by title</string>
+    <string name="llibres_per_categoria_help_title">Books by category</string>
+    <string name="llibres_per_autor_help_title">Books by author</string>
+    <string name="afegir_llibre_help_title">Add new book</string>
+    <string name="eliminar_llibre_help_title">Delete a book</string>
+    <string name="canviar_valoracio_help_title">Change a rating</string>
+
+    <string name="llibres_per_titol_help_body">This section shows the titles of the books we have in the database sorted alphabetically by title</string>
+    <string name="llibres_per_categoria_help_body">This section shows the information of all the books we have in the database sorted by category </string>
+
+    <string name="llibres_per_autor_help_body"> In this section you can view the data of the books written by a user-searched author. In order to perform the search, we will have to enter the name of the author in the text field and press the Search button</string>
+
+    <string name="afegir_llibre_help_body">
+In this section you can add new books to the database. To do this, we will have to press the button with the "+" symbol at the bottom right of the screen. Once the data of the new book is entered, and if everything went correctly, we will see that the new book has been added</string>
+
+    <string name="eliminar_llibre_help_body">
+In this section we can remove the books that we no longer want from the database. Initially, all the books that appear in the list will be published. To delete a book, you must click on the item and confirm the action. We can also search for a book by title and then click on the card that contains the data of the book to delete. After a confirmation, the book will be deleted, although this action can be undone if we click on "Undo" when this option appears</string>
+
+    <string name="canviar_valoracio_help_body">
+In this section we can change the personal valuation of the books we have in the database. To do this, we will simply click on the book we want to change, and we will see a window to enter the new rating. Subsequently, if we confirm the action, we will see that our personal assessment of the book has been updated</string>
+
+    <string name="about_description">
+We are the And063 group and we have done the practice 2.
+        The first team member, in Marc, has performed part A of the practice.
+        The second member, Hermes, performed part B.
+        \ nFor any questions you can click on the Twitter icon to visit our profiles
+        so you can contact us.
+    </string>
+    <string name="books_by_title">Books by title</string>
+    <string name="books_by_category">Books By Category</string>
+    <string name="books_by_author">Books By Author</string>
+    <string name="add_new_book">Add New Stock</string>
+    <string name="delete_a_book">Sell Book</string>
+    <string name="help">Help</string>
+    <string name="add_existing_stock">Add Existing Stock</string>
+    <string name="about">About</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="year">Year</string>
+    <string name="personal_assessment">Book Rating</string>
+    <string name="shelf_number">Shelf Number</string>
+    <string name="change_rating">Enter Number Of New Units</string>
+    <string name="rating_one">poor</string>
+    <string name="quantity">Quantity</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="search">Search</string>
+    <string name="book_not_found">The book was not found</string>
+    <string name="no_such_author_was_found_try_again">No Such Author Was Found, Try Again!</string>
+    <string name="enter_name_of_the_author">Enter Name Of The Author</string>
+    <string name="new_stock_title">New Stock</string>
+    <string name="bracecodes_software_solutions">BraceCodes Software Solutions</string>
+    <string name="enter_the_name_of_the_book">Enter The Name Of The Book</string>
+
+</resources>

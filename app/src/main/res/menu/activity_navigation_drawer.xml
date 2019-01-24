@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/title_sorting"
+            android:icon="@drawable/ic_list_black_18dp"
+            android:title="@string/books_by_title" />
+        <item
+            android:id="@+id/category_sorting"
+            android:icon="@drawable/ic_class_black_18dp"
+            android:title="@string/books_by_category" />
+        <item
+            android:id="@+id/books_by_author"
+            android:icon="@drawable/ic_person_black_18dp"
+            android:title="@string/books_by_author" />
+        <item
+            android:id="@+id/new_book"
+            android:icon="@drawable/ic_add_circle_black_18dp"
+            android:title="@string/add_new_book" />
+        <item
+            android:id="@+id/delete_book"
+            android:icon="@drawable/ic_delete_black_18dp"
+            android:title="@string/delete_a_book" />
+        <item
+            android:id="@+id/change_valoration_menu"
+            android:icon="@drawable/ic_add_circle_black_18dp"
+            android:title="@string/add_existing_stock" />
+        <item
+            android:id="@+id/help_menu"
+            android:icon="@drawable/ic_help_black_18dp"
+            android:title="@string/help" />
+        <item
+            android:id="@+id/about_menu"
+            android:icon="@drawable/ic_info_black_18dp"
+            android:title="@string/about" />
+    </group>
+
+</menu>
